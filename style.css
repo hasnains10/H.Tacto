@@ -1,0 +1,67 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		Stylesheet
+	</title>
+	<title>Contact us</title>
+	<style>
+     body{
+     	background: "Chrysanthemum.jpg";
+		
+        }
+        .menu{
+
+        	width: 100%;
+        	background: red;
+        	overflow: auto;
+        }
+        .menu ul{
+        	margin: 0;
+        	padding:0;
+        	list-style: none;
+        	line-height: 80px;
+        	width: 450px;
+        }
+        .menu li{
+        	float: left;
+        	width: 150px;
+        }
+        .menu ul li a{
+        	text-decoration: none;
+        	width: 150px;
+        	height: 100px;
+        	display: block;
+        	text-align: center;
+        	color: black;
+        	font-size: 15px;
+        	font-family: sans-serif;
+        	letter-spacing: 0.5px; 
+        	 
+        }
+        form{
+        	font-size: 20px;
+        	border: 1px;
+        	padding: 10px;
+        }
+        input{
+        	padding: 10px;
+        	margin: 10px;
+        	width: 100%;
+        }
+        input[type=submit]{
+      width: 100%;
+       }
+       p{
+       	text-align: center;
+        }
+       </style>
+</head>
+<body>
+
+</body>
+</html>>
+
+
